@@ -1,0 +1,38 @@
+
+h1 {
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+    height: 60px;
+    margin-top: 25px;
+}
+
+fieldset {
+    background: #ffffff;
+    color:#141617;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    font-family: 'Poppins',sans-serif;
+    box-shadow: #0000001f 10px 10px 0 0;
+}
+
+.c-y {
+    background-color: #ffea8e;
+    margin-top: 10px;}
+    
+.c-b {
+    background-color: #b5dafd;}
+    
+.c-g {
+    background-color: #affc9c;}
+    
+.c-r {
+    background-color: #ffa191;}
+    
+input{
+    cursor: pointer;}
+    
+
+h2 {
+    margin-bottom: 25px;
+}
